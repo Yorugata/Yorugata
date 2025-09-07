@@ -2,8 +2,9 @@
 
 Welcome to a very basic bio!
 - 🌱 I’m currently learning Python, R, and SQL.
-- I'm currently a tax accountant, but looking to upskill and learn data analysis skills.
-- As I get more into this, expect some (hopefully) meaningful changes to my GitHub, especially as I figure out which projects to upload.
+- I'm currently a Controller, overseeing everything finance and accounting at my company, but I'm looking to upskill and learn data analysis skills.
+- Professionally, I have 5 years of tax accounting experience. I had internships in audit, internal audit, tax, and IT audit prior to starting full-time in tax.
+- As I get more into my data analytics journey, expect some (hopefully) meaningful changes to my GitHub, especially as I figure out which projects to upload.
 
 
 <!--
